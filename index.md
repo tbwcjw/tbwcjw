@@ -4,11 +4,8 @@ layout: home
 permalink: /
 ---
 
-# Other Demo Pages
+# active projects
+[tbwcjw faucet](https://faucet.tbwcjw.online/)
 
-[Light](https://b2a3e8.github.io/jekyll-theme-console-demo-light/)
-[Hacker](https://b2a3e8.github.io/jekyll-theme-console-demo-hacker/)
-
-# Welcome
-
-Bla bla bla bla. Bla bla bla bla bla bla bla bla.
+# welcome
+keep up to date with the functionality of the faucet here.
