@@ -9,7 +9,7 @@ header_pages:
 
 style: dark
 
-footer: 'TBA: join our <a href="#">discord</a> server.'
+footer: 'join our <a href="https://discord.gg/Yw9WX49vzg">discord</a> server.'
 
 # Build settings
 markdown: kramdown
