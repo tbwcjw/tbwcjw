@@ -2,7 +2,7 @@
 layout: post
 title:  "the slow opening"
 date:   2025-01-10 01:11:30 -05:00
-categories: duco, faucet, launch
+categories: duco faucet launch
 ---
 # The slow opening
 Today we deployed [tbwcjw faucet](https://faucet.tbwcjw.online) for the first time! You can recieve 0.5 DUCO every 12 hours! 
