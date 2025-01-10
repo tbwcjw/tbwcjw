@@ -1,6 +1,3 @@
-plugins:
-  - jekyll-feed
-  
 title: tbwcjw.online
 description: "the landing page for projects by tbwcjw"
 baseurl: "/"
@@ -16,4 +13,4 @@ footer: 'join our <a href="https://discord.gg/Yw9WX49vzg">discord</a> server.'
 
 # Build settings
 markdown: kramdown
-#theme: "b2a3e8/jekyll-theme-console"
+remote_theme: b2a3e8/jekyll-theme-console
