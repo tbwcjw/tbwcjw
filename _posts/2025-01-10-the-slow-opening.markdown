@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "the slow opening"
-date:   2025-MM-DD HH:MM:SS -05:00
+date:   2025-01-10 01:11:30 -05:00
 categories: duco, faucet, launch
 ---
 # The slow opening
