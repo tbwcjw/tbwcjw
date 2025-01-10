@@ -16,5 +16,4 @@ footer: 'join our <a href="https://discord.gg/Yw9WX49vzg">discord</a> server.'
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-console
-
+theme: "jekyll-theme-console"
