@@ -12,7 +12,7 @@ header_pages:
 
 style: dark
 
-footer: '<a href="https://discord.gg/T9FtuhHBGN"><img alt="Discord" src="https://img.shields.io/discord/1326441329902878770?label=join%20our%20discord%20server"></a>'
+footer: 'join the <a href="https://discord.gg/T9FtuhHBGN">discord server</a>'
 
 # Build settings
 markdown: kramdown
