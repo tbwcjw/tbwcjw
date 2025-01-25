@@ -12,5 +12,7 @@ Currently, the spotlight is on [tbwcjw faucet](https://faucet.tbwcjw.online/), a
 Stay tuned for updates, new projects, and insights into the exciting work happening here at [tbwcjw.online](https://tbwcjw.online). Add us to your favorite [RSS Feed](https://tbwcjw.online/feed).
 
 # active projects
-[tbwcjw faucet](https://faucet.tbwcjw.online/) - get free DuinoCoin. ![Website](https://img.shields.io/website?url=https%3A%2F%2Ffaucet.tbwcjw.online&label=faucet)
+[tbwcjw faucet](https://faucet.tbwcjw.online/) - get free DuinoCoin. ![uptime percentage](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftbwcjw%2Fhealth.tbwcjw.online%2Frefs%2Fheads%2Fmaster%2Fapi%2Ffaucet-tbwcjw-online%2Fuptime.json&query=%24.message&label=uptime&color=mediumgreen)
+
+
 
