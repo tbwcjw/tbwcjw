@@ -9,4 +9,5 @@ Since yesterdays outage, I have pushed a health monitor for [faucet.tbwcjw.onlin
 
 Check it out at [health.tbwcjw.online](https://health.tbwcjw.online).
 
+Thanks,
 \- tbwcjw
