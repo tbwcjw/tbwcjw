@@ -14,5 +14,4 @@ Stay tuned for updates, new projects, and insights into the exciting work happen
 # active projects
 [tbwcjw faucet](https://faucet.tbwcjw.online/) - Free DuinoCoin every 12 hours! ![uptime percentage](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftbwcjw%2Fhealth.tbwcjw.online%2Frefs%2Fheads%2Fmaster%2Fapi%2Ffaucet-tbwcjw-online%2Fuptime.json&query=%24.message&label=uptime&color=mediumgreen)
 [TrumpGolfTrack-Discord-Bot](https://github.com/tbwcjw/TrumpGolfTrack-Discord-Bot) - A Discord bot written in Python that tracks Donald Trump's golf outings using Selenium to scrape [trumpgolftrack.com](https://trumpgolftrack.com/), a nonaffiliate. 
-
-
+[JustPooped-Discord-Bot](https://github.com/tbwcjw/JustPooped-Discord-Bot) - A Discord bot written in Python that tracks your servers bathroom habits, with minigame and trivia.
