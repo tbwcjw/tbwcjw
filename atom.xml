@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>tbwcjw.online Feed</title>
+  <link href="https://tbwcjw.online" rel="alternate"/>
+  <link href="https://tbwcjw.online/atom_feed.xml" rel="self"/>
+  <updated>2025-06-01T08:09:43Z</updated>
+  <id>https://tbwcjw.online/</id>
+  <author>
+    <name>tbwcjw</name>
+  </author>
+  <entry>
+    <title>vertex</title>
+    <link href="https://github.com/tbwcjw/vertex"/>
+    <id>https://github.com/tbwcjw/vertex</id>
+    <summary>A TCP/UDP BitTorrent tracker written in Python with support for modular database implementations, private/public modes and statistic tracking.</summary>
+    <author>
+      <name>tbwcjw</name>
+    </author>
+    <category term="Software Project"/>
+  </entry>
+  <entry>
+    <title>nxducominer</title>
+    <link href="https://github.com/tbwcjw/nxducominer"/>
+    <id>https://github.com/tbwcjw/nxducominer</id>
+    <summary>A mining application on the Nintendo Switch for the cryptocurrencyduinocoin. Multithreaded with web dashboard and IoT integration.</summary>
+    <author>
+      <name>tbwcjw</name>
+    </author>
+    <category term="Software Project"/>
+  </entry>
+  <entry>
+    <title>tbwcjw faucet</title>
+    <link href="https://health.tbwcjw.online"/>
+    <id>https://health.tbwcjw.online</id>
+    <summary>A faucet for the cryptocurrencyduinocoin. Written in PHP without frameworks, conforming to best practices (as of writing). Open source is coming soon™</summary>
+    <author>
+      <name>tbwcjw</name>
+    </author>
+    <category term="Software Project"/>
+  </entry>
+  <entry>
+    <title>faucet payout increased</title>
+    <link href="https://tbwcjw.online#notes"/>
+    <id>https://tbwcjw.online/#notes-faucet-payout-increased</id>
+    <updated>2025-06-01T03:41:00Z</updated>
+    <summary>To celebrate 1000 payouts, tbwcjw faucet will now give 1 DUCO per payout, up from the 0.5 DUCO.</summary>
+    <author>
+      <name>tbwcjw</name>
+    </author>
+    <category term="Note"/>
+  </entry>
+</feed>
