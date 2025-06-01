@@ -48,9 +48,10 @@ for note in notes:
     
     entry = ET.SubElement(feed, ET.QName(ATOM_NS, "entry"))
     ET.SubElement(entry, ET.QName(ATOM_NS, "title")).text = title
-    ET.SubElement(entry, ET.QName(ATOM_NS, "link"), href="https://tbwcjw.online#notes")
+    
 
     note_id = f"https://tbwcjw.online/#notes-{title.replace(' ', '-')}"
+    ET.SubElement(entry, ET.QName(ATOM_NS, "link"), href=note_id)
     ET.SubElement(entry, ET.QName(ATOM_NS, "id")).text = note_id
     ET.SubElement(entry, ET.QName(ATOM_NS, "updated")).text = pub_date
     ET.SubElement(entry, ET.QName(ATOM_NS, "summary")).text = desc
