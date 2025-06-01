@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>tbwcjw.online</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet" />
+  <style>
+    img {
+        height:20px;
+        image-rendering:pixelated;
+    }
+  </style>
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+    <div class="container my-4 px-3 px-md-0">
+      <a class="navbar-brand" href="#">tbwcjw.online</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" 
+        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+        <div class="d-lg-flex flex-column flex-lg-row gap-2">
+          <a href="https://github.com/tbwcjw" target="_blank" class="btn btn-primary" aria-label="GitHub">
+            <i class="bi bi-github"></i> GitHub
+          </a>
+          <a href="https://tbwcjw.online/atom_feed.xml" target="_blank" class="btn btn-primary" aria-label="Atom Feed">
+            <i class="bi bi-rss"></i> RSS
+          </a>
+        </div>
+      </div>
+    </div>
+  </nav>
+  <div class="container my-4">
+    <div class="row">
+      <div class="col-md-6 mb-3">
+        <h2 id="software-projects">Software projects</h2>
+        <div class="list-group">
+            <div class="list-group-item list-group-item-action flex-column align-items-start">
+                <div class="d-flex w-100 justify-content-between">
+                <h5 class="mb-1">vertex</h5>
+                <small><a href='https://github.com/tbwcjw/vertex'>github</a></small>
+                </div>
+                <p class="mb-1">A TCP/UDP BitTorrent tracker written in Python with support for modular database implementations, private/public modes and statistic tracking.</p>
+            </div>
+            <div class="list-group-item list-group-item-action flex-column align-items-start">
+                <div class="d-flex w-100 justify-content-between">
+                <h5 class="mb-1 d-flex flex-wrap align-items-center gap-2">nxducominer <img class='align-text-bottom' src="https://github.com/tbwcjw/nxducominer/actions/workflows/c.yml/badge.svg?event=push"> </h5>
+                <small><a href='https://github.com/tbwcjw/nxducominer'>github</a></small>
+                </div>
+                <p class="mb-1">A mining application on the Nintendo Switch for the cryptocurrency <a href='https://duinocoin.com'>duinocoin</a>. Multithreaded with web dashboard and IoT integration.</p>
+            </div>
+            <div class="list-group-item list-group-item-action flex-column align-items-start">
+                <div class="d-flex w-100 justify-content-between">
+                <h5 class="mb-1 d-flex flex-wrap align-items-center gap-2">tbwcjw faucet <a href='https://health.tbwcjw.online'><img class='align-text-bottom' src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftbwcjw%2Fhealth.tbwcjw.online%2Frefs%2Fheads%2Fmaster%2Fapi%2Ffaucet-tbwcjw-online%2Fuptime.json&amp;query=%24.message&amp;label=uptime&amp;color=mediumgreen" alt="uptime percentage"></a></h5>
+                <small><a href='https://faucet.tbwcjw.online'>visit</a></small>
+                </div>
+                <p class="mb-1">A faucet for the cryptocurrency <a href='https://duinocoin.com'>duinocoin</a>. Written in PHP without frameworks, conforming to best practices (as of writing). Open source is coming soon&trade;</p>
+            </div>
+        </div>
+        <p><b>Note:</b> these are the active/currently maintained projects. All projects can be found at my <a href='https://github.com/tbwcjw'>github</a>.</p>
+      </div>
+      <div class="col-md-6 mb-3">
+        <h2>Contact</h2>
+        <p>
+            <b>(Preferred)</b> Write an email to <img class="align-text-bottom" src="mail.png"> preferredly PGP encrypted, <a href="key.asc">the key</a>, fingerprint <code class="text-break">21DB ED96 44A8 6E45 1560  52E2 96B6 B930 F24E A9A9</code>.
+            <br>
+            I will not reply to unencrypted emails.
+        </p>
+        <p>
+            <b>(Alternatively)</b> Join the <a href='https://discord.gg/T9FtuhHBGN'>Discord Server</a>. Please do not send me DM's or ping me, I  will not reply.
+        </p>
+        <h2 id="notes"class="mb-2">Notes</h2>
+        <div class="list-group">
+            <div class="list-group-item list-group-item-action flex-column align-items-start">
+                <div class="d-flex w-100 justify-content-between">
+                <b id="notes-faucet-payout-increased" class="mb-1">faucet payout increased</b>
+                <small class="fst-italic text-muted">06/01/25 03:41 AM</small>
+                </div>
+                <p class="mb-1">To celebrate 1000 payouts, tbwcjw faucet will now give 1 DUCO per payout, up from the 0.5 DUCO.</p>
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
