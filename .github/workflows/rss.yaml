@@ -2,7 +2,7 @@ name: Generate Atom Feed
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
     paths-ignore:
       - 'key.asc'
       - 'mail.png'
