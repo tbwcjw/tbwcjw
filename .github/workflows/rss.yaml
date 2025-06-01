@@ -6,6 +6,8 @@ on:
     paths-ignore:
       - 'key.asc'
       - 'mail.png'
+      - 'README.md'
+      - 'LICENSE.txt'
 
 jobs:
   build:
