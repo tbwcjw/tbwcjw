@@ -3,7 +3,7 @@
   <title>tbwcjw.online Feed</title>
   <link href="https://tbwcjw.online" rel="alternate"/>
   <link href="https://tbwcjw.online/atom_feed.xml" rel="self"/>
-  <updated>2025-06-02T00:00:06Z</updated>
+  <updated>2025-06-06T03:48:24Z</updated>
   <id>https://tbwcjw.online/</id>
   <author>
     <name>tbwcjw</name>
@@ -37,6 +37,36 @@
       <name>tbwcjw</name>
     </author>
     <category term="Software Project"/>
+  </entry>
+  <entry>
+    <title>nxcgol</title>
+    <link href="https://github.com/tbwcjw/nxcgol"/>
+    <id>https://github.com/tbwcjw/nxcgol</id>
+    <summary>An implementation of Conway's Game of Life for the Nintendo Switch.</summary>
+    <author>
+      <name>tbwcjw</name>
+    </author>
+    <category term="Just For Fun Project"/>
+  </entry>
+  <entry>
+    <title>TrumpGolfTrack-Discord-Bot</title>
+    <link href="https://github.com/tbwcjw/TrumpGolfTrack-Discord-Bot"/>
+    <id>https://github.com/tbwcjw/TrumpGolfTrack-Discord-Bot</id>
+    <summary>Python Discord bot using Selenium to track Trumps golfing activity.</summary>
+    <author>
+      <name>tbwcjw</name>
+    </author>
+    <category term="Just For Fun Project"/>
+  </entry>
+  <entry>
+    <title>JustPooped-Discord-Bot</title>
+    <link href="https://github.com/tbwcjw/JustPooped-Discord-Bot"/>
+    <id>https://github.com/tbwcjw/JustPooped-Discord-Bot</id>
+    <summary>A Discord bot written in Python that tracks your servers bathroom habits, with minigame and trivia integration.</summary>
+    <author>
+      <name>tbwcjw</name>
+    </author>
+    <category term="Just For Fun Project"/>
   </entry>
   <entry>
     <title>faucet payout increased</title>
