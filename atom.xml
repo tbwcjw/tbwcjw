@@ -3,7 +3,7 @@
   <title>tbwcjw.online Feed</title>
   <link href="https://tbwcjw.online" rel="alternate"/>
   <link href="https://tbwcjw.online/atom_feed.xml" rel="self"/>
-  <updated>2025-09-18T21:27:04Z</updated>
+  <updated>2025-09-18T21:29:10Z</updated>
   <id>https://tbwcjw.online/</id>
   <author>
     <name>tbwcjw</name>
@@ -23,16 +23,6 @@
     <link href="https://github.com/tbwcjw/nxducominer"/>
     <id>https://github.com/tbwcjw/nxducominer</id>
     <summary>A mining application on the Nintendo Switch for the cryptocurrencyduinocoin. Multithreaded with web dashboard and IoT integration.</summary>
-    <author>
-      <name>tbwcjw</name>
-    </author>
-    <category term="Software Project"/>
-  </entry>
-  <entry>
-    <title>languages-badge</title>
-    <link href="https://github.com/tbwcjw/languages-badge"/>
-    <id>https://github.com/tbwcjw/languages-badge</id>
-    <summary>Create a badge for your repository that shows the languages used. Usingshields.ioand GitHub actions.</summary>
     <author>
       <name>tbwcjw</name>
     </author>
