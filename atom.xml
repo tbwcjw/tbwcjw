@@ -3,7 +3,7 @@
   <title>tbwcjw.online Feed</title>
   <link href="https://tbwcjw.online" rel="alternate"/>
   <link href="https://tbwcjw.online/atom_feed.xml" rel="self"/>
-  <updated>2025-08-13T00:49:26Z</updated>
+  <updated>2025-09-18T21:27:04Z</updated>
   <id>https://tbwcjw.online/</id>
   <author>
     <name>tbwcjw</name>
@@ -43,6 +43,26 @@
     <link href="https://github.com/tbwcjw/ps3dec-gui"/>
     <id>https://github.com/tbwcjw/ps3dec-gui</id>
     <summary>Yet another GUI for PS3Dec. Built with Rust.</summary>
+    <author>
+      <name>tbwcjw</name>
+    </author>
+    <category term="Software Project"/>
+  </entry>
+  <entry>
+    <title>arduino-ps3mapi</title>
+    <link href="https://github.com/tbwcjw/arduino-ps3mapi"/>
+    <id>https://github.com/tbwcjw/arduino-ps3mapi</id>
+    <summary>An Arduino library to monitor &amp; control homebrewed PS3s running webMAN using PS3MAPI.</summary>
+    <author>
+      <name>tbwcjw</name>
+    </author>
+    <category term="Software Project"/>
+  </entry>
+  <entry>
+    <title>mcps3rtm</title>
+    <link href="https://github.com/tbwcjw/mcps3rtm"/>
+    <id>https://github.com/tbwcjw/mcps3rtm</id>
+    <summary>A CLI real time modding tool for the PS3 edition of Minecraft.</summary>
     <author>
       <name>tbwcjw</name>
     </author>
