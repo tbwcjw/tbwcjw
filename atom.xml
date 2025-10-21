@@ -3,21 +3,11 @@
   <title>tbwcjw.online Feed</title>
   <link href="https://tbwcjw.online" rel="alternate"/>
   <link href="https://tbwcjw.online/atom_feed.xml" rel="self"/>
-  <updated>2025-09-18T21:29:10Z</updated>
+  <updated>2025-10-20T01:53:14Z</updated>
   <id>https://tbwcjw.online/</id>
   <author>
     <name>tbwcjw</name>
   </author>
-  <entry>
-    <title>vertex</title>
-    <link href="https://github.com/tbwcjw/vertex"/>
-    <id>https://github.com/tbwcjw/vertex</id>
-    <summary>A TCP/UDP BitTorrent tracker written in Python with support for modular database implementations, private/public modes and statistic tracking.</summary>
-    <author>
-      <name>tbwcjw</name>
-    </author>
-    <category term="Software Project"/>
-  </entry>
   <entry>
     <title>nxducominer</title>
     <link href="https://github.com/tbwcjw/nxducominer"/>
@@ -49,10 +39,30 @@
     <category term="Software Project"/>
   </entry>
   <entry>
+    <title>ezDNS</title>
+    <link href="https://github.com/tbwcjw/ps3ezDNS"/>
+    <id>https://github.com/tbwcjw/ps3ezDNS</id>
+    <summary>A PS3 DNS configuration application that lets you save and quickly swap custom DNS profiles for different games and online revival projects.</summary>
+    <author>
+      <name>tbwcjw</name>
+    </author>
+    <category term="Software Project"/>
+  </entry>
+  <entry>
     <title>mcps3rtm</title>
     <link href="https://github.com/tbwcjw/mcps3rtm"/>
     <id>https://github.com/tbwcjw/mcps3rtm</id>
     <summary>A CLI real time modding tool for the PS3 edition of Minecraft.</summary>
+    <author>
+      <name>tbwcjw</name>
+    </author>
+    <category term="Software Project"/>
+  </entry>
+  <entry>
+    <title>vertex</title>
+    <link href="https://github.com/tbwcjw/vertex"/>
+    <id>https://github.com/tbwcjw/vertex</id>
+    <summary>A TCP/UDP BitTorrent tracker written in Python with support for modular database implementations, private/public modes and statistic tracking.</summary>
     <author>
       <name>tbwcjw</name>
     </author>
@@ -97,5 +107,17 @@
       <name>tbwcjw</name>
     </author>
     <category term="Just For Fun Project"/>
+  </entry>
+  <entry>
+    <title>DUCO Faucet retirement</title>
+    <link href="https://tbwcjw.online/#notes-DUCO-Faucet-retirement"/>
+    <id>https://tbwcjw.online/#notes-DUCO-Faucet-retirement</id>
+    <updated>2025-10-19T21:52:00Z</updated>
+    <summary>faucet.tbwcjw.online has been retired as I don't have the required free time to maintain it in production, and would rather focus on other projects.
+              It has since been open sourced, and archived onGitHub. Thank you everyone who used tbwcjw faucet!</summary>
+    <author>
+      <name>tbwcjw</name>
+    </author>
+    <category term="Note"/>
   </entry>
 </feed>
