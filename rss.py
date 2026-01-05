@@ -11,10 +11,10 @@ ET.register_namespace('', ATOM_NS)
 feed = ET.Element(ET.QName(ATOM_NS, "feed"))
 
 ET.SubElement(feed, ET.QName(ATOM_NS, "title")).text = "tbwcjw.online Feed"
-ET.SubElement(feed, ET.QName(ATOM_NS, "link"), href="https://tbwcjw.online", rel="alternate")
-ET.SubElement(feed, ET.QName(ATOM_NS, "link"), href="https://tbwcjw.online/atom_feed.xml", rel="self")
+ET.SubElement(feed, ET.QName(ATOM_NS, "link"), href="https://tbwcjw.github.io/tbwcjw/", rel="alternate")
+ET.SubElement(feed, ET.QName(ATOM_NS, "link"), href="https://tbwcjw.github.io/tbwcjw/atom_feed.xml", rel="self")
 ET.SubElement(feed, ET.QName(ATOM_NS, "updated")).text = datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
-ET.SubElement(feed, ET.QName(ATOM_NS, "id")).text = "https://tbwcjw.online/"
+ET.SubElement(feed, ET.QName(ATOM_NS, "id")).text = "https://tbwcjw.github.io/tbwcjw/"
 author = ET.SubElement(feed, ET.QName(ATOM_NS, "author"))
 ET.SubElement(author, ET.QName(ATOM_NS, "name")).text = "tbwcjw"
 
@@ -41,7 +41,7 @@ if software_heading:
             title = item.h5.get_text(strip=True)
             desc = item.p.get_text(strip=True)
             link_tag = item.find("a", href=True)
-            link = link_tag["href"] if link_tag else "https://tbwcjw.online#software-projects"
+            link = link_tag["href"] if link_tag else "https://tbwcjw.github.io/tbwcjw#software-projects"
             create_entry(title, desc, link, "Software Project")
 
 # just For Fun projects
@@ -53,7 +53,7 @@ if jff_heading:
             title = item.h5.get_text(strip=True)
             desc = item.p.get_text(strip=True)
             link_tag = item.find("a", href=True)
-            link = link_tag["href"] if link_tag else "https://tbwcjw.online#jff-projects"
+            link = link_tag["href"] if link_tag else "https://tbwcjw.github.io/tbwcjw#jff-projects"
             create_entry(title, desc, link, "Just For Fun Project")
 
 # notes
@@ -66,7 +66,7 @@ if notes_heading:
             desc = note.p.get_text(strip=True)
             date_text = note.find("small").text.strip()
             pub_date = datetime.strptime(date_text, "%m/%d/%y %I:%M %p").strftime("%Y-%m-%dT%H:%M:%SZ")
-            note_id = f"https://tbwcjw.online/#notes-{title.replace(' ', '-')}"
+            note_id = f"https://tbwcjw.github.io/tbwcjw#notes-{title.replace(' ', '-')}"
             create_entry(title, desc, note_id, "Note", updated=pub_date)
 
 # prettify
