@@ -3,7 +3,7 @@
   <title>tbwcjw.online Feed</title>
   <link href="https://tbwcjw.github.io/tbwcjw/" rel="alternate"/>
   <link href="https://tbwcjw.github.io/tbwcjw/atom_feed.xml" rel="self"/>
-  <updated>2026-08-28T08:25:55Z</updated>
+  <updated>2026-08-30T23:51:26Z</updated>
   <id>https://tbwcjw.github.io/tbwcjw/</id>
   <author>
     <name>tbwcjw</name>
@@ -60,17 +60,6 @@
     <category term="Software Project"/>
   </entry>
   <entry>
-    <title>vertex</title>
-    <link href="https://github.com/tbwcjw/vertex"/>
-    <id>https://github.com/tbwcjw/vertex</id>
-    <summary>A TCP/UDP BitTorrent tracker written in Python with support for modular database
-              implementations, private/public modes and statistic tracking.</summary>
-    <author>
-      <name>tbwcjw</name>
-    </author>
-    <category term="Software Project"/>
-  </entry>
-  <entry>
     <title>webMAN-wallpaper</title>
     <link href="https://github.com/tbwcjw/webMAN-wallpaper"/>
     <id>https://github.com/tbwcjw/webMAN-wallpaper</id>
@@ -85,27 +74,6 @@
     <link href="https://github.com/tbwcjw/nxcgol"/>
     <id>https://github.com/tbwcjw/nxcgol</id>
     <summary>An implementation of Conway's Game of Life for the Nintendo Switch.</summary>
-    <author>
-      <name>tbwcjw</name>
-    </author>
-    <category term="Just For Fun Project"/>
-  </entry>
-  <entry>
-    <title>TrumpGolfTrack-Discord-Bot</title>
-    <link href="https://github.com/tbwcjw/TrumpGolfTrack-Discord-Bot"/>
-    <id>https://github.com/tbwcjw/TrumpGolfTrack-Discord-Bot</id>
-    <summary>Python Discord bot using Selenium to track Trumps golfing activity.</summary>
-    <author>
-      <name>tbwcjw</name>
-    </author>
-    <category term="Just For Fun Project"/>
-  </entry>
-  <entry>
-    <title>JustPooped-Discord-Bot</title>
-    <link href="https://github.com/tbwcjw/JustPooped-Discord-Bot"/>
-    <id>https://github.com/tbwcjw/JustPooped-Discord-Bot</id>
-    <summary>A Discord bot written in Python that tracks your servers bathroom habits, with minigame and
-              trivia integration.</summary>
     <author>
       <name>tbwcjw</name>
     </author>
